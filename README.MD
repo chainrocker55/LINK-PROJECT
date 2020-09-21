@@ -2,7 +2,7 @@
 
 > https://testgithubapi.herokuapp.com/
 
-> ![Image of Program GIT](https://github.com/chainrocker55/LINK-PROJECT/blob/master/Interface%20Flex/GIT_API.png){:height="24px" width="48px"}
+> ![Image of Program GIT](https://github.com/chainrocker55/LINK-PROJECT/blob/master/Interface%20Flex/GIT_API.png)
 
 ### Network Programming
 
@@ -28,8 +28,8 @@
 > https://portfolio59160545.herokuapp.com/
 
 ### LINE BOT
+> <img src="https://github.com/chainrocker55/LINK-PROJECT/blob/master/Interface%20Flex/LINEBOT.jpg" height="700" width="400">
 
-> ![Image of Program LINEBOT](https://github.com/chainrocker55/LINK-PROJECT/blob/master/Interface%20Flex/LINEBOT.jpg)
 
 ## Example Project 
 
