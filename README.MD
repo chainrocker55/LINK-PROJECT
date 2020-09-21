@@ -1,7 +1,7 @@
 ==> API CHECK LANGUAGE PROGRAM FOR INTERVIEW <==
 
 https://testgithubapi.herokuapp.com/
-![Image of Program GIT](https://github.com/chainrocker55/LINK-PROJECT/blob/master/Interface%20Flex/GIT_API.PNG)
+![Image of Program GIT](https://github.com/chainrocker55/LINK-PROJECT/blob/master/Interface%20Flex/GIT_API.png)
 
 ==> Network Programming <==
 
